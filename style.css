@@ -483,7 +483,6 @@
     .container {
         height: 50vh;
         width: 100%;
-        background-image: url("./img/bg.jpg");
         background-position: center top 57px;
     }
 
