@@ -484,7 +484,7 @@
     }
 
     .mid-img-text h3 {
-        font-size: 30px;
+        font-size: 24px;
         padding: 2% 6%;
     }
     .after-mid {
@@ -494,43 +494,46 @@
 
     .after-mid .title h2 {
         font-family: "Roboto Slab", serif;
-        font-size: 33px;
+        font-size: 30px;
+        margin-top: 15%;
     }
-
+    
     .after-mid .title hr {
         width: 90%;
         height: 4px;
         background-color: #FFC035;
+        margin-bottom: 15%;
     }
 
     .after-mid .title p {
         font-family: "Montserrat", sans-serif;
         font-weight: 800;
         color: #004685;
-        margin-top: 4%;
+        margin-top: 6%;
         margin-bottom: 4%;
-        font-size: 26px;
+        font-size: 24px;
     }
 
 
     .after-mid .img img {
         height: 40vh;
         width: 100%;
-        margin-top: 2%;
+        margin-top: 5%;
         margin-left: -4%;
     }
     
-
+    
     .after-mid .img-text {
         height: 28%;
         width: 100%;
         background-color: #FF553E;
         margin-left: -4%;
+        margin-bottom: 5%;
     }
 
     .after-mid .img-text h3 {
         font-family: "Roboto Slab", serif;
-        font-size: 30px;
+        font-size: 25px;
         padding: 2% 10%;
         margin-top: -6px;
         transition: transform 0.4s ease-in-out, color 0.4s ease-in-out;
