@@ -487,7 +487,12 @@
     .container {
         height: 50vh;
         width: 100%;
-        background-position: center top 57px;
+        background-image: url("./img/bg.jpg");
+        background-position: center top 28px;
+        background-repeat: no-repeat;
+        background-size: cover;
+
+
     }
 
     .main-text h2 {
@@ -542,13 +547,13 @@
     .mid-container {
         overflow: hidden;
     }
-    
+
     .mid-container .title h2 {
         font-size: 26px;
     }
-   
 
-    .mid-container .image-row .image-item img{
+
+    .mid-container .image-row .image-item img {
         width: 100%;
     }
 

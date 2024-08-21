@@ -10,7 +10,7 @@
 .container {
     height: 72vh;
     width: 100%;
-    background-image: url("../Img/featbg.jpg");
+    background-image: url("./img/featbg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -441,7 +441,7 @@
         overflow: hidden;
         height: 50vh;
         width: 100%;
-        background-image: url("../Img/featbg.jpg");
+        background-image: url("./img//featbg.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
